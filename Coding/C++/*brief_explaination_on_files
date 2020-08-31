@@ -13,4 +13,14 @@ a sorting function that I coded in.
 
 
 Project Name: 
+  AddLargeNum
+Description:
+  There are limits to how big numbers can go for int variables. In this assignment I had to program a function that would read two large nums and still be able to 
+add them together.
+
+Project Name:
+  Exact Number
+Description:
+  This program implements an easy approach to improving floating-point number representation.
+
   
